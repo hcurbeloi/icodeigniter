@@ -1,4 +1,4 @@
-# ¿Qué es iCodeIgniter para iSeries iBM OS (sistema Operativo)?
+# ¿Qué es iCodeigniter para iSeries iBM OS (sistema Operativo)?
 iCodeigniter es una versión del framework conocido. Codeigniter, this version has a product tool are the programme that using PHP in the systems iSeries of IBM.
 
 # Versión 1.0
